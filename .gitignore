@@ -1,0 +1,13 @@
+# Build output
+/target/
+/dist/
+/RedditResearch.exe
+
+# Local run output (normally under %APPDATA%\RedditResearch, but keep this safe)
+/runs/
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,26 @@
+1 ICON "app.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEOS 0x40004L
+FILETYPE 0x1L
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904B0"
+    {
+      VALUE "CompanyName", "Reddit Research"
+      VALUE "FileDescription", "Reddit Research"
+      VALUE "FileVersion", "1.0.0"
+      VALUE "InternalName", "RedditResearch"
+      VALUE "OriginalFilename", "RedditResearch.exe"
+      VALUE "ProductName", "Reddit Research"
+      VALUE "ProductVersion", "1.0.0"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0409, 1200
+  }
+}
